@@ -1,14 +1,14 @@
 <component name="ArtifactManager">
-  <artifact type="ejb-jar" name="WsVoiceTraffic-ejb:ejb">
-    <output-path>$PROJECT_DIR$/WsVoiceTraffic-ejb/target</output-path>
+  <artifact type="ejb-jar" name="ImeiBloqueo-ejb:ejb">
+    <output-path>$PROJECT_DIR$/ImeiBloqueo-ejb/target</output-path>
     <properties id="maven-jee-properties">
       <options>
-        <module>WsVoiceTraffic-ejb</module>
+        <module>ImeiBloqueo-ejb</module>
         <packaging>ejb</packaging>
       </options>
     </properties>
-    <root id="archive" name="WsVoiceTraffic-ejb-1.0-SNAPSHOT.jar">
-      <element id="artifact" artifact-name="WsVoiceTraffic-ejb:ejb exploded" />
+    <root id="archive" name="ImeiBloqueo-ejb-1.0-SNAPSHOT.jar">
+      <element id="artifact" artifact-name="ImeiBloqueo-ejb:ejb exploded" />
     </root>
   </artifact>
 </component>

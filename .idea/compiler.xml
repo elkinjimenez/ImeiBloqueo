@@ -6,22 +6,22 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="WsVoiceTraffic-ear" />
-        <module name="WsVoiceTraffic-ejb" />
-        <module name="WsVoiceTraffic-web" />
+        <module name="ImeiBloqueo-ear" />
+        <module name="ImeiBloqueo-ejb" />
+        <module name="ImeiBloqueo-web" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="WsVoiceTraffic" target="1.5" />
-      <module name="WsVoiceTraffic-ear" target="1.7" />
-      <module name="WsVoiceTraffic-ejb" target="8" />
-      <module name="WsVoiceTraffic-web" target="8" />
+      <module name="ImeiBloqueo" target="1.5" />
+      <module name="ImeiBloqueo-ear" target="1.7" />
+      <module name="ImeiBloqueo-ejb" target="8" />
+      <module name="ImeiBloqueo-web" target="8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
-      <module name="WsVoiceTraffic-ejb" options="-endorseddirs C:\Users\madrigalo\Documents\IntellijIdea\WsVoiceTraffic\WsVoiceTraffic-ejb\target/endorsed" />
-      <module name="WsVoiceTraffic-web" options="-endorseddirs C:\Users\madrigalo\Documents\IntellijIdea\WsVoiceTraffic\WsVoiceTraffic-web\target/endorsed" />
+      <module name="ImeiBloqueo-ejb" options="-endorseddirs C:\Users\madrigalo\Documents\IntellijIdea\ImeiBloqueo\ImeiBloqueo-ejb\target/endorsed" />
+      <module name="ImeiBloqueo-web" options="-endorseddirs C:\Users\madrigalo\Documents\IntellijIdea\ImeiBloqueo\ImeiBloqueo-web\target/endorsed" />
     </option>
   </component>
 </project>

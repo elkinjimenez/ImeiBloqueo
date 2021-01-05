@@ -1,19 +1,19 @@
 <component name="ArtifactManager">
-  <artifact type="exploded-ejb" name="WsVoiceTraffic-ejb:ejb exploded">
-    <output-path>$PROJECT_DIR$/WsVoiceTraffic-ejb/target/WsVoiceTraffic-ejb-1.0-SNAPSHOT</output-path>
+  <artifact type="exploded-ejb" name="ImeiBloqueo-ejb:ejb exploded">
+    <output-path>$PROJECT_DIR$/ImeiBloqueo-ejb/target/ImeiBloqueo-ejb-1.0-SNAPSHOT</output-path>
     <properties id="maven-jee-properties">
       <options>
         <exploded>true</exploded>
-        <module>WsVoiceTraffic-ejb</module>
+        <module>ImeiBloqueo-ejb</module>
         <packaging>ejb</packaging>
       </options>
     </properties>
     <root id="root">
-      <element id="javaee-facet-resources" facet="WsVoiceTraffic-ejb/ejb/EJB" />
+      <element id="javaee-facet-resources" facet="ImeiBloqueo-ejb/ejb/EJB" />
       <element id="directory" name="META-INF">
-        <element id="file-copy" path="$PROJECT_DIR$/WsVoiceTraffic-ejb/target/WsVoiceTraffic-ejb-1.0-SNAPSHOT/META-INF/MANIFEST.MF" />
+        <element id="file-copy" path="$PROJECT_DIR$/ImeiBloqueo-ejb/target/ImeiBloqueo-ejb-1.0-SNAPSHOT/META-INF/MANIFEST.MF" />
       </element>
-      <element id="module-output" name="WsVoiceTraffic-ejb" />
+      <element id="module-output" name="ImeiBloqueo-ejb" />
     </root>
   </artifact>
 </component>
