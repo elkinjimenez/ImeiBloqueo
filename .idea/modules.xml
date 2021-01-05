@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/WsVoiceTraffic.iml" filepath="$PROJECT_DIR$/WsVoiceTraffic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WsVoiceTraffic-ear/WsVoiceTraffic-ear.iml" filepath="$PROJECT_DIR$/WsVoiceTraffic-ear/WsVoiceTraffic-ear.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WsVoiceTraffic-ejb/WsVoiceTraffic-ejb.iml" filepath="$PROJECT_DIR$/WsVoiceTraffic-ejb/WsVoiceTraffic-ejb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WsVoiceTraffic-web/WsVoiceTraffic-web.iml" filepath="$PROJECT_DIR$/WsVoiceTraffic-web/WsVoiceTraffic-web.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="WsVoiceTraffic-ear" />
+        <module name="WsVoiceTraffic-ejb" />
+        <module name="WsVoiceTraffic-web" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="WsVoiceTraffic" target="1.5" />
+      <module name="WsVoiceTraffic-ear" target="1.7" />
+      <module name="WsVoiceTraffic-ejb" target="8" />
+      <module name="WsVoiceTraffic-web" target="8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="WsVoiceTraffic-ejb" options="-endorseddirs C:\Users\madrigalo\Documents\IntellijIdea\WsVoiceTraffic\WsVoiceTraffic-ejb\target/endorsed" />
+      <module name="WsVoiceTraffic-web" options="-endorseddirs C:\Users\madrigalo\Documents\IntellijIdea\WsVoiceTraffic\WsVoiceTraffic-web\target/endorsed" />
+    </option>
+  </component>
+</project>

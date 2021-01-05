@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="ear" name="WsVoiceTraffic-ear:ear">
+    <output-path>$PROJECT_DIR$/WsVoiceTraffic-ear/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>WsVoiceTraffic-ear</module>
+        <packaging>ear</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="WsVoiceTraffic-ear-1.0-SNAPSHOT.ear">
+      <element id="artifact" artifact-name="WsVoiceTraffic-ear:ear exploded" />
+    </root>
+  </artifact>
+</component>

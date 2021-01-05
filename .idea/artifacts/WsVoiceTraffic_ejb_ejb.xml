@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="ejb-jar" name="WsVoiceTraffic-ejb:ejb">
+    <output-path>$PROJECT_DIR$/WsVoiceTraffic-ejb/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>WsVoiceTraffic-ejb</module>
+        <packaging>ejb</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="WsVoiceTraffic-ejb-1.0-SNAPSHOT.jar">
+      <element id="artifact" artifact-name="WsVoiceTraffic-ejb:ejb exploded" />
+    </root>
+  </artifact>
+</component>
